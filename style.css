@@ -1,0 +1,18 @@
+body {
+	background-image: url("bnsftrain.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+#login {
+	justify: right;
+}
+
+h2 {
+	color: red;
+}
+
+p {
+	color: pink;
+}
